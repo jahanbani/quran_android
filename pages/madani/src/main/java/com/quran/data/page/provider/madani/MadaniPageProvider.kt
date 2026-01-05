@@ -69,6 +69,14 @@ class MadaniPageProvider : PageProvider {
         path = "2",
         hasGaplessAlternative = false,
         db = null
+      ),
+      Qari(
+        3,
+        audioR.string.qari_parhizgar,
+        url = "https://everyayah.com/data/Parhizgar_48kbps/",
+        path = "parhizgar",
+        hasGaplessAlternative = false,
+        db = null
       )
     )
   }
